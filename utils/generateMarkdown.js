@@ -15,7 +15,7 @@ const generateMarkdown = (userInput) => {
   return `
   # ${userInput.title}
 
-  ![badge](https://img.shields.io/badge/license-${userInput.license}-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-${userInput.license}-red)<br />
   
   ## Description
   
@@ -41,7 +41,7 @@ const generateMarkdown = (userInput) => {
   
   ## License
 
-  ![badge](https://img.shields.io/badge/license-${userInput.license}-brightgreen)
+  ![badge](https://img.shields.io/badge/license-${userInput.license}-red)
 <br />
 
  This project is covered by the ${userInput.license} license.

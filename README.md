@@ -1,11 +1,11 @@
 
-  # ReadME
+  # Readme Generator
 
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-MIT-red)<br />
   
   ## Description
   
-  This is a template for creating Readme files
+  Terminal-based readME generator for coding projects 
   
   ## Table of Contents 
 
@@ -19,15 +19,15 @@
   
   ## Installation
 
-  This project is run from the terminal using node and Inquirer package
+  This project requires inquirer and runs through node in the terminal 
   
   ## Usage
   
-  This project generates Readme files after providing user input
+  This project is run through the terminal 
   
   ## License
 
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  ![badge](https://img.shields.io/badge/license-MIT-red)
 <br />
 
  This project is covered by the MIT license.
@@ -38,13 +38,13 @@
 
   ## Tests
 
-  No
+  No test included 
 
   ## Questions
 
-  Contact me on Github<br />
+  Conact me on Github<br />
 
-  Find me on Github: [PRGottinger](https://github.com/PRGottinger)<br />)
+  Find me on Github: [PRGottinger](https://github.com/PRGottinger)<br />
 
   Email me with any question about my project at: pgottinger@mail.com
   
