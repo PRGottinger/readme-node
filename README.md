@@ -1,11 +1,11 @@
 
-  # Readme Generator
+  # ReadME Generator 
 
   ![badge](https://img.shields.io/badge/license-MIT-red)<br />
   
   ## Description
   
-  Terminal-based readME generator for coding projects 
+  This project generates a ReadME file after collecting user input through the terminal
   
   ## Table of Contents 
 
@@ -19,11 +19,11 @@
   
   ## Installation
 
-  This project requires inquirer and runs through node in the terminal 
+  This project requires node and inquirer and runs through the terminal 
   
   ## Usage
   
-  This project is run through the terminal 
+  This project requires the user to give input to questions in the terminal 
   
   ## License
 
@@ -34,15 +34,15 @@
   
   ## Contributing
   
-  Paul Gottinger
+  Paul Gottinger 
 
   ## Tests
 
-  No test included 
+  There is no test included 
 
   ## Questions
 
-  Conact me on Github<br />
+  contact me on Github<br />
 
   Find me on Github: [PRGottinger](https://github.com/PRGottinger)<br />
 
