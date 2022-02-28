@@ -25,6 +25,8 @@
   
   This project requires the user to give input to questions in the terminal 
   
+  Video walkthrough of using the ReadME Generator: https://drive.google.com/file/d/1tHEXMfO_wJdbZj0WbhIO-5QIM7y7HdG_/view
+  
   ## License
 
   ![badge](https://img.shields.io/badge/license-MIT-red)
